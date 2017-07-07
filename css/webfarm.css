@@ -2,6 +2,25 @@ body {
 	background-color: #ffffff;
 }
 
+a:hover {
+		text-decoration: none;
+}
+.btn-primary {
+	background: #AFBB9D; 
+	border: #AFBB9D;
+	color: #900907;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.btn-primary:hover {
+	background: #900907; 
+	border: #900907;
+	color: #ffffff;
+
+}
+
+
 div#welcomeHead
 {
 
