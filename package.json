@@ -1,21 +1,22 @@
 {
   "name": "webfarmgitpages",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6",
-    "glyphicons": "^0.2.0",
-    "react": "^15.4.2",
-    "react-bootstrap": "^0.30.8",
-    "react-dom": "^15.4.2"
-  },
-  "devDependencies": {
-    "react-scripts": "0.9.5"
-  },
+  "version": "1.0.0",
+  "description": "Public Website served from Github",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elemgee/elemgee.github.io.git"
+  },
+  "author": "Larry Mills-Gahl <lmg@webfarm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elemgee/elemgee.github.io/issues"
+  },
+  "homepage": "https://github.com/elemgee/elemgee.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
   }
 }
