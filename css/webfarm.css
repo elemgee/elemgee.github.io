@@ -24,6 +24,13 @@ a:hover {
 	margin-bottom: 1em;
 }
 
+.img-fluid {
+	padding-top: .7em;
+	padding-bottom: .7em;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
 
 div#welcomeHead
 {
